@@ -2,11 +2,11 @@
 
 ####  游戏预览
 
-![image](https://github.com/yangmiemie1/SnakeGames/images/games.png)
+![image](https://github.com/yangmiemie1/SnakeGames/blob/master/images/games.png)
 
 #### 技术点
 
-+ javascript
++ javascript 创建对象
 
 ####  实现功能
 
